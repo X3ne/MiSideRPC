@@ -21,7 +21,7 @@ For now the mod only works with English language, but I'm planning to add suppor
 2. Download the zip file from the [releases](https://github.com/X3ne/MiSideRPC/releases/latest) page.
 
 
-3. Just extract the `plugins` file into the `BepInEx/` folder (located in you game folder).
+3. Just extract the `plugins` folder into the `BepInEx/` folder (located in you game folder).
 
 
 4. Launch your game and this should be it!
