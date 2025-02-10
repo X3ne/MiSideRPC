@@ -18,7 +18,7 @@ For now the mod only works with English language, but I'm planning to add suppor
 1. Download `BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip` from [BepInEx](https://github.com/BepInEx/BepInEx/releases).
 
 
-2. Download the zip file from the [releases](https://github.com/X3ne/MiSideRPC/releases/latest) page.
+2. Download the zip file from [NexusMods](https://www.nexusmods.com/miside/mods/350) or the [releases](https://github.com/X3ne/MiSideRPC/releases/latest) page.
 
 
 3. Just extract the `plugins` folder into the `BepInEx/` folder (located in you game folder).
