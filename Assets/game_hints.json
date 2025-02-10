@@ -1,0 +1,230 @@
+﻿{
+  "chapters": [
+    "Prologue",
+    "I'm Inside a Game?",
+    "Together at Last",
+    "Things Get Weird",
+    "The Basement",
+    "Beyond the World",
+    "Cappie",
+    "The Loop",
+    "Mini Mita",
+    "Dummies and Forgotten Puzzles",
+    "Ghost Mita",
+    "She Just Wants to Sleep",
+    "Novels",
+    "Reading Books, Destroying Glitches",
+    "Run and Hide!",
+    "Old Version",
+    "Be Candid",
+    "The Real World",
+    "Reboot",
+    "Leave the Core!"
+  ],
+  "hints": [
+    {
+      "chapter": "Prologue",
+      "version": "Real World",
+      "scene": "player_room",
+      "hints": [
+        "Pick up the phone",
+        "Put the clothes in the laundry basket",
+        "Buy the required ingredients",
+        "Chop the vegetables",
+        "Play mini-games to earn money (450)",
+        "Buy a small TV",
+        "Move the wardrobe",
+        "Give Mita a present"
+      ]
+    },
+    {
+      "chapter": "I'm Inside a Game?",
+      "version": "v1.5",
+      "scene": "chapter_1",
+      "hints": [
+        "Have a look around",
+        "Find the required objects and place them on the scanner",
+        "Scan the objects and start the machine",
+        "Go to the fuse box by the front door",
+        "Find and return the missing batteries to the machine",
+        "Start the machine"
+      ]
+    },
+    {
+      "chapter": "Together at Last",
+      "version": "v1.9",
+      "scene": "chapter_2",
+      "hints": [
+        "Go to the kitchen",
+        "Chop carrots",
+        "Get the scissors from the bathroom",
+        "Hand Mita the scissors",
+        "Put the dishes in the sink"
+      ]
+    },
+    {
+      "chapter": "Things Get Weird",
+      "version": "v1.9",
+      "scene": "chapter_3",
+      "hints": [
+        "Find Mita",
+        "Play games with Mita",
+        "Open the wardrobe"
+      ]
+    },
+    {
+      "chapter": "The Basement",
+      "version": "v1.9",
+      "scene": "chapter_4",
+      "hints": [
+        "Find the key beside the sofa",
+        "Pick up the console",
+        "Hide!"
+      ]
+    },
+    {
+      "chapter": "Beyond the World",
+      "version": "",
+      "scene": "chapter_5",
+      "hints": [
+        "Find a way out",
+        "Chase the mini people to the exit",
+        "Talk to Mita",
+        "Move on"
+      ]
+    },
+    {
+      "chapter": "The Loop",
+      "version": "v1.3B",
+      "scene": "chapter_7",
+      "hints": [
+        "Set the clock's time right",
+        "Talk with Tiny Mita",
+        "Interact with the window Tiny Mita is at and leave this version"
+      ]
+    },
+    {
+      "chapter": "Mini Mita",
+      "version": "",
+      "scene": "chapter_8",
+      "hints": [
+        "Help mini Mita",
+        "Use the key to open the door",
+        "Have a look around",
+        "Head to the arcade machine",
+        "Check all the Mita models",
+        "Go back downstairs"
+      ]
+    },
+    {
+      "chapter": "Dummies and Forgotten Puzzles",
+      "version": "",
+      "scene": "chapter_9",
+      "hints": [
+        "Leave this place",
+        "Open the passage",
+        "Take the funicular railway"
+      ]
+    },
+    {
+      "chapter": "Ghost Mita",
+      "version": "",
+      "scene": "chapter_10",
+      "hints": [
+        "Find the pieces and assemble the picture on the table",
+        "Pass the image to Mita",
+        "Run away from the Mita models"
+      ]
+    },
+    {
+      "chapter": "She Just Wants to Sleep",
+      "version": "v1.1",
+      "scene": "chapter_11",
+      "hints": [
+        "Find a way out",
+        "Try to wake Mita up",
+        "Make coffee",
+        "Give Mita the coffee",
+        "Take Mita to the switches"
+      ]
+    },
+    {
+      "chapter": "Reading Books, Destroying Glitches",
+      "version": "v1.0F",
+      "scene": "chapter_13",
+      "hints": [
+        "Leave the house",
+        "Take a look around",
+        "Dealing with glitches",
+        "Try and leave the house"
+      ]
+    },
+    {
+      "chapter": "Run and Hide!",
+      "version": "",
+      "scene": "chapter_14",
+      "hints": [
+        "Run!",
+        "Get to the door",
+        "Survive!"
+      ]
+    },
+    {
+      "chapter": "Old Version",
+      "version": "v0.5",
+      "scene": "chapter_15",
+      "hints": [
+        "Look around",
+        "Find the exit",
+        "Find the teddy",
+        "Ask questions",
+        "Go!"
+      ]
+    },
+    {
+      "chapter": "Be Candid",
+      "version": "",
+      "scene": "chapter_16",
+      "hints": [
+        "Talk to Mita",
+        "Head to the Core",
+        "Find the option to restart a character",
+        "Talk to Mita",
+        "Sit down on the sofa and wait for Mita",
+        "Much time has passed. Better try and find Mita"
+      ]
+    },
+    {
+      "chapter": "The Real World",
+      "version": "",
+      "scene": "chapter_17",
+      "hints": [
+        "Look around",
+        "Find yourself",
+        "Go about your day",
+        "Run an unknown program"
+      ]
+    },
+    {
+      "chapter": "Reboot",
+      "version": "",
+      "scene": "chapter_18",
+      "hints": [
+        "Leave the basement",
+        "Take a look around",
+        "Go to the Core",
+        "Enter the data and pull the lever reboot Crazy Mita"
+      ]
+    },
+    {
+      "chapter": "Leave the Core!",
+      "version": "v0.0",
+      "scene": "chapter_19",
+      "hints": [
+        "Open the door at the entrance",
+        "Head to the basement and enter your ID",
+        "Leave this world"
+      ]
+    }
+  ]
+}

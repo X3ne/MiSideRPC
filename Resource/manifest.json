@@ -1,0 +1,9 @@
+﻿{
+  "name": "MiSideRPC",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/X3ne/MiSideRPC",
+  "description": "",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.698"
+  ]
+}
